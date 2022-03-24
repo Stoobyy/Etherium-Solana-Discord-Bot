@@ -5,7 +5,9 @@ This is a simple and ineffecient (but still working) discord bot that stores Eth
 ## THIS WAS A FIVERR ORDER THAT WE GOT SCAMMED ON
  
  My friend and I do [Fiverr](https://www.fiverr.com/thehideout_) and we got this as an order by a very kind looking person. He paid a total of 15$ + 2 Nitro for this but he ended up scamming us and asking for a refund for both the Nitro and Fiverr money. He also was reselling our bot for 50$ per client which is a huge nono. We called him out and he got annoyed. Hence why we are open sourcing the bot.
- 
+#### The scammers go by the name NFTCop and they sell NFTs by the looks of their [website](https://nftcop.io). Feel free to do anything you want with this website and any social accounts that may be linked to this website. He has already done too much to us and I wouldn't mind him getting his scam business shut down. 
+
+
  ## Basic commands
  
 -setminbalance            Sets the minimum balance
