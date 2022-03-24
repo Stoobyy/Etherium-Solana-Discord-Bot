@@ -28,6 +28,6 @@ Answer. The guy who paid for it scammed me of the money and ran away with the bo
 ### Why are there no more frequently asked question?
 Answer. Idk you tell me
 
-## Feel free to edit and make this bot better. I am also open to all suggestions and will probably need tips on how to progaram more effieciently.
+## Feel free to edit and make this bot better. I am also open to all suggestions and will probably need tips on how to program more effieciently.
 # Join my [Discord Server](https://discord.gg/sCyMq5Be6r)
 This is also my first time using Github and my first Github (post?) so please bear with me if it looks a unprofessional. I plan on getting better over time, hopefully.
