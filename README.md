@@ -1,6 +1,6 @@
 # Etherium and Solana Address Storing Discord Bot
 
-This is a simple and ineffecient (but still working) discord bot that stores Etherium and Solana addresses. You can set a minimum balance for it the address to pass checking and you can also remove, view and export all addresses as json. This bot is pretty inefficient and basic as I am still new to python and discord.py so feel free to edit and make it better.
+This is a simple and inefficient (but still working) discord bot that stores Etherium and Solana addresses. You can set a minimum balance for it the address to pass checking and you can also remove, view and export all addresses as json. This bot is pretty inefficient and basic as I am still new to python and discord.py so feel free to edit and make it better.
 
 ## THIS WAS A FIVERR ORDER THAT WE GOT SCAMMED ON
  
@@ -28,6 +28,6 @@ Answer. The guy who paid for it scammed me of the money and ran away with the bo
 ### Why are there no more frequently asked question?
 Answer. Idk you tell me
 
-## Feel free to edit and make this bot better. I am also open to all suggestions and will probably need tips on how to program more effieciently.
+## Feel free to edit and make this bot better.
 # Join my [Discord Server](https://discord.gg/sCyMq5Be6r)
-This is also my first time using Github and my first Github (post?) so please bear with me if it looks a unprofessional. I plan on getting better over time, hopefully.
+This is also my first time using Github and my first Github repo and readme file so please bear with me if it looks unprofessional. I plan on getting better over time, hopefully.
